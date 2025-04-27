@@ -17,7 +17,7 @@ struct LoginPage: View {
                 .frame(width: 100, height: 100)
                 .foregroundColor(.blue)
 
-            Text("StudyBuddy")
+            Text("Studium")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .foregroundColor(.white)
